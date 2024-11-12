@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     TERRAFORM_VERSION = '0.12.26'
-    TERRAFORM_DIR = '/path/to/your/terraform/files'
+    TERRAFORM_DIR = 'C:\Users\gowth\Downloads\terraform\Terraform Assignment'
   }
 
   stages {
